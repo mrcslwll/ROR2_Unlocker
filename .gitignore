@@ -1,0 +1,10 @@
+# PyInstaller's intermediate cache -- regenerated on every build, and full of
+# machine-specific absolute paths.
+build/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Save-file backups, in case one is ever made inside the project folder
+*.backup_*.xml

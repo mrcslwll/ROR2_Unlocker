@@ -1,0 +1,5 @@
+# ROR2 Unlocker uses only the Python standard library (tkinter, xml,
+# pathlib, winreg) so there is nothing to install to run it from source.
+#
+# This file only lists what you need to build the standalone .exe.
+pyinstaller>=6.0
